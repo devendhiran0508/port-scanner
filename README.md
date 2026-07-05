@@ -1,4 +1,4 @@
-./ven# Port Scanner
+Port Scanner
 
 A simple, educational TCP port scanner written in Python. Built step by step
 to learn networking fundamentals (TCP handshakes, concurrency, service
