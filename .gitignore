@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache/bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Scan output (results are personal scan data, not source code)
+output/*.json
+output/*.csv
